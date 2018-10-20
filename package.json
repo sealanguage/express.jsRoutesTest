@@ -1,0 +1,14 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "express walkthrough oct 20 2018",
+  "main": "server.js",
+  "scripts": {
+    "test": "\\"
+  },
+  "author": "elaine froehlich",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
